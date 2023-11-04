@@ -1,0 +1,25 @@
+Requerimiento del proyecto:
+
+1.Análisis de Módulos
+   - Analiza cada uno de los módulos en tu proyecto y determina qué información necesita ser almacenada en la base de datos para cubrir los requisitos de 	cada módulo. Define las tablas necesarias para representar esta información.
+
+2. Campos de Control de Auditoría 
+   - En cada tabla principal, agrega campos de control de auditoría como "creación", "modificación" y cualquier otro campo relevante para el seguimiento de cambios en los datos.
+
+3. Diseño del ERD
+   - Diseña un Diagrama de Entidad-Relación (ERD) que muestre las tablas y sus relaciones. Esto ayudará a visualizar cómo se relacionan los datos en la base de datos.
+
+4. Diccionario de Datos
+   - Crea un diccionario de datos detallado que incluya información sobre cada tabla. Para cada tabla, proporciona el nombre, una breve descripción y la lista de campos con sus tipos de datos. Esto servirá como una referencia útil para el desarrollo y el mantenimiento.
+
+5. Script SQL
+   - Genera un script SQL que contenga las declaraciones para crear las tablas, secuencias (si se utilizan para generar identificadores únicos), restricciones, claves foráneas, índices, y otros elementos necesarios para la estructura de la base de datos.
+
+6. Datos de Prueba
+   - Inserta datos de prueba en las tablas para tener información con la que puedas realizar pruebas y verificar que la base de datos funcione correctamente.
+
+7. Exportación como archivo .SQL
+   - Exporta la base de datos como un archivo .SQL que contenga el script SQL generado en el paso anterior. Este archivo se utilizará para crear la base de datos real.
+
+8. Subir el Proyecto a GitHub:
+   - Crea un repositorio en GitHub para tu proyecto y sube allí el código SQL, el diagrama ERD, el diccionario de datos 
