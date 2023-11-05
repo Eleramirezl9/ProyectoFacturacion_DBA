@@ -1,6 +1,6 @@
-# ## Requerimientos del Proyecto
+# Requerimientos del Proyecto
 
-Para mantener la base de datos de este proyecto organizada y bien documentada, hemos seguido estos pasos:
+Para mantener la base de datos I de este proyecto organizada y bien documentada, hemos seguido estos pasos:
 
 1. **Análisis de Módulos:**
    - Identificamos los módulos y componentes del proyecto y definimos las tablas necesarias para almacenar la información.
