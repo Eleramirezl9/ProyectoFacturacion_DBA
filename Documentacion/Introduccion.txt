@@ -1,8 +1,8 @@
-Requerimiento del proyecto:
+requerimientos a tratar:
 
 1.Análisis de Módulos
    - Analiza cada uno de los módulos en tu proyecto y determina qué información necesita ser almacenada en la base de datos para cubrir los requisitos de 	cada módulo. Define las tablas necesarias para representar esta información.
-
+ 
 2. Campos de Control de Auditoría 
    - En cada tabla principal, agrega campos de control de auditoría como "creación", "modificación" y cualquier otro campo relevante para el seguimiento de cambios en los datos.
 
