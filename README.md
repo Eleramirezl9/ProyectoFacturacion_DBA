@@ -26,6 +26,3 @@ Para mantener la base de datos de este proyecto organizada y bien documentada, h
 8. **Subir el Proyecto a GitHub:**
    - Creamos un repositorio en GitHub y subimos el código SQL, el diagrama ERD y el diccionario de datos.
 
-## Uso
-
-Describa aquí cómo los usuarios y colaboradores pueden utilizar el script SQL para crear la base de datos y cómo se relaciona con el proyecto en general.
